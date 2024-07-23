@@ -162,6 +162,5 @@ cython_debug/
 #.idea/
 
 
-# Docker Compose for MySQL Database
+# MySQL Database data
 mysql-data/
-docker-compose.yml
